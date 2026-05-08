@@ -10,13 +10,13 @@
 ![JS](https://img.shields.io/badge/-JS-gray.svg?style=flat)
 ![WASM](https://img.shields.io/badge/-WASM-gray.svg?style=flat)
 
-
+----
 
 ❌ This repository is deprecated. The project continues here:
 
 👉 [https://github.com/StefanOltmann/kim](https://github.com/StefanOltmann/kim)
 
-
+----
 
 Kim is a Kotlin Multiplatform library for reading and writing image metadata.
 
